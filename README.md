@@ -15,7 +15,7 @@
 - 🛠  Azure
 - 🛠  Terraform, Ansible
 - 🛠  Devops, Azure Devops
-- 🛠  Python, C, Java, PowerShell
+- 🛠  Python, Java, PowerShell
 - 🛠  Postgres, MySQL, Mongo
 - 🛠  Linux, Windows
 - 🛠  Datadog, Zabbix, Grafana
