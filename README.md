@@ -24,8 +24,8 @@
 ----
 ### My Stats on Github
 
-![Stats](https://github-readme-stats.vercel.app/api?username=daniel-arnjunckes&count_private=true&theme=dracula&hide_border=1) 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=daniel-arnjunckes&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Stats](https://github-readme-stats.vercel.app/api?username=daniel-arnjunckes&count_private=tru&hide_border=1) 
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=daniel-arnjunckes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <!---
 daniel-arnjunckes/daniel-arnjunckes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
