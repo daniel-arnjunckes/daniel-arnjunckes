@@ -24,11 +24,14 @@
 ----
 ### My Stats on Github
 
-<div align="center">
-  <a href="https://github.com/ivo-loop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-arnjunckes&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-arnjunckes&layout=compact&langs_count=10/>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=daniel-arnjunckes&count_private=true&hide_border=1) 
+
+----
+### Most Languages Used
+
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-arnjunckes&langs_count=10)
+
+
 
 <!---
 daniel-arnjunckes/daniel-arnjunckes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
