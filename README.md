@@ -21,17 +21,6 @@
 - 🛠  Datadog, Zabbix, Grafana
 - 🛠  Kuberntes, Docker, Rancher
 
-----
-### My Stats on Github
-
-![Stats](https://github-readme-stats.vercel.app/api?username=daniel-arnjunckes&count_private=true&hide_border=1) 
-
-----
-### Most Languages Used
-
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-arnjunckes&langs_count=10)
-
-
 
 <!---
 daniel-arnjunckes/daniel-arnjunckes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
